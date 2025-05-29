@@ -1,6 +1,6 @@
 # Shell Project
 
-A minimal UNIX shell project in C .
+ UNIX shell project abdessamad bouibes .
 
 ## Build
 ```bash
